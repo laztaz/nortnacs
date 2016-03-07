@@ -1,0 +1,3 @@
+Nortnacs is a form processing and survey analysis tool written in Java which allows you to scan images of filled out forms using an off the shelf scanner and process the results.
+
+As you can see, this page is a bit sparse at the moment. If you would like to receive email alerts when there's more to be seen, please fill out the form here: https://spreadsheets.google.com/viewform?formkey=dEMxUEwxMDlmeDZJNGJzeWp1ZU1aOWc6MQ
